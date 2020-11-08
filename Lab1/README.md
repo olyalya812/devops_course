@@ -8,4 +8,4 @@
 6. Спершу я перейшла до гілки main: git checkout main. Для злиття я використала git merge brrrranch
 7. Виникає конфлікт, оскільки файл в двох гілках є різним. Відредагую файл вручну.
 8. Добавила зображення:
-![MyImage](https://github.com/olyalya812/devops_course/blob/main/photo_2019-05-01_17-21-21.jpg?raw=true)
+![MyImage](https://github.com/olyalya812/devops_course/blob/main/Lab1/photo_2019-05-01_17-21-21.jpg)
