@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="569ddc5e-88ed-4a35-9ebf-b4f3ef8ece38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/devops_course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 2/READMI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 2/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 2/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 2/tests/tests.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jyRNau9FCYcu59VfqMBCSF8lZq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager" selected="Python.__main__">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="devops_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__main__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 2a/__main__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="devops_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="common" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="devops_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 2a/modules/common.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 2a/lab2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="devops_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 2/lab2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.__main__" />
+        <item itemvalue="Python.lab2 (1)" />
+        <item itemvalue="Python.common" />
+        <item itemvalue="Python.lab2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="569ddc5e-88ed-4a35-9ebf-b4f3ef8ece38" name="Default Changelist" comment="" />
+      <created>1604774325665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604774325665</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="26" width="734" height="632" key="#Inspections" timestamp="1604840236179">
+      <screen x="0" y="25" width="1366" height="638" />
+    </state>
+    <state x="312" y="26" width="734" height="632" key="#Inspections/0.25.1366.638@0.25.1366.638" timestamp="1604840236179" />
+    <state x="418" y="175" width="522" height="334" key="#Notifications" timestamp="1604860106710">
+      <screen x="0" y="25" width="1366" height="638" />
+    </state>
+    <state x="418" y="175" width="522" height="334" key="#Notifications/0.25.1366.638@0.25.1366.638" timestamp="1604860106710" />
+    <state x="166" y="25" width="1026" height="633" key="#Project_Structure" timestamp="1604778254256">
+      <screen x="0" y="25" width="1366" height="638" />
+    </state>
+    <state x="166" y="25" width="1026" height="633" key="#Project_Structure/0.25.1366.638@0.25.1366.638" timestamp="1604778254256" />
+    <state x="141" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604780631307">
+      <screen x="0" y="25" width="1366" height="638" />
+    </state>
+    <state x="141" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1366.638@0.25.1366.638" timestamp="1604780631307" />
+    <state x="415" y="136" width="527" height="410" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1604780620797">
+      <screen x="0" y="25" width="1366" height="638" />
+    </state>
+    <state x="415" y="136" width="527" height="410" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1366.638@0.25.1366.638" timestamp="1604780620797" />
+    <state x="99" y="93" width="526" height="496" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604786341292">
+      <screen x="0" y="25" width="1366" height="638" />
+    </state>
+    <state x="99" y="93" width="526" height="496" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1366.638@0.25.1366.638" timestamp="1604786341292" />
+    <state x="466" y="102" width="426" height="479" key="FileChooserDialogImpl" timestamp="1605475649416">
+      <screen x="0" y="25" width="1366" height="638" />
+    </state>
+    <state x="466" y="102" width="426" height="479" key="FileChooserDialogImpl/0.25.1366.638@0.25.1366.638" timestamp="1605475649416" />
+    <state width="1343" height="140" key="GridCell.Tab.0.bottom" timestamp="1604860284922">
+      <screen x="0" y="25" width="1366" height="638" />
+    </state>
+    <state width="1087" height="140" key="GridCell.Tab.0.bottom/0.25.1110.629@0.25.1110.629" timestamp="1604846319934" />
+    <state width="1343" height="140" key="GridCell.Tab.0.bottom/0.25.1366.638@0.25.1366.638" timestamp="1604860284922" />
+    <state width="1343" height="143" key="GridCell.Tab.0.bottom/0.25.640.629@0.25.640.629" timestamp="1604840503134" />
+    <state width="1343" height="140" key="GridCell.Tab.0.center" timestamp="1604860284921">
+      <screen x="0" y="25" width="1366" height="638" />
+    </state>
+    <state width="1087" height="140" key="GridCell.Tab.0.center/0.25.1110.629@0.25.1110.629" timestamp="1604846319933" />
+    <state width="1343" height="140" key="GridCell.Tab.0.center/0.25.1366.638@0.25.1366.638" timestamp="1604860284921" />
+    <state width="1343" height="143" key="GridCell.Tab.0.center/0.25.640.629@0.25.640.629" timestamp="1604840503133" />
+    <state width="1343" height="140" key="GridCell.Tab.0.left" timestamp="1604860284920">
+      <screen x="0" y="25" width="1366" height="638" />
+    </state>
+    <state width="1087" height="140" key="GridCell.Tab.0.left/0.25.1110.629@0.25.1110.629" timestamp="1604846319933" />
+    <state width="1343" height="140" key="GridCell.Tab.0.left/0.25.1366.638@0.25.1366.638" timestamp="1604860284920" />
+    <state width="1343" height="143" key="GridCell.Tab.0.left/0.25.640.629@0.25.640.629" timestamp="1604840503133" />
+    <state width="1343" height="140" key="GridCell.Tab.0.right" timestamp="1604860284921">
+      <screen x="0" y="25" width="1366" height="638" />
+    </state>
+    <state width="1087" height="140" key="GridCell.Tab.0.right/0.25.1110.629@0.25.1110.629" timestamp="1604846319933" />
+    <state width="1343" height="140" key="GridCell.Tab.0.right/0.25.1366.638@0.25.1366.638" timestamp="1604860284921" />
+    <state width="1343" height="143" key="GridCell.Tab.0.right/0.25.640.629@0.25.640.629" timestamp="1604840503133" />
+    <state x="187" y="25" width="984" height="638" key="SettingsEditor" timestamp="1604781608775">
+      <screen x="0" y="25" width="1366" height="638" />
+    </state>
+    <state x="187" y="25" width="984" height="638" key="SettingsEditor/0.25.1366.638@0.25.1366.638" timestamp="1604781608775" />
+    <state x="346" y="25" key="search.everywhere.popup" timestamp="1604780014345">
+      <screen x="0" y="25" width="1366" height="638" />
+    </state>
+    <state x="346" y="25" key="search.everywhere.popup/0.25.1366.638@0.25.1366.638" timestamp="1604780014345" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
