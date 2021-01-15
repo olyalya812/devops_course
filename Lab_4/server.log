@@ -1,0 +1,7 @@
+INFO 2020-11-30 00:03:22,051 root : Server is available. Server time: 2020-11-29 10:03:22
+INFO 2020-11-30 00:03:22,051 root : Requested page: : http://localhost:8000/health/
+INFO 2020-11-30 00:03:22,051 root : Server response keys:
+INFO 2020-11-30 00:03:22,051 root : Key: date, Value: "2020-11-29 22:13:19"
+INFO 2020-11-30 00:03:22,051 root : Key: storinka, Value: http://127.0.0.1:8000/health/
+INFO 2020-11-30 00:03:22,051 root : Key: infa_pro_server, Value: ["Linux", "olyalya-machine", "5.4.0-53-generic", "#59~18.04.1-Ubuntu SMP Wed Oct 21 12:14:56 UTC 2020", "x86_64"]
+INFO 2020-11-30 00:03:22,051 root : Key: infa_pro_clienta, Value: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
