@@ -1,0 +1,26 @@
+version: '3.6'
+services:
+  compose_app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: olyavalchak/lab4:compose-app
+    container_name: compose-app
+    networks:
+      - public
+    ports:
+      - 8000:8000
+  compose_mon:
+    build:
+      context: .
+      dockerfile: Dockerfile.site
+    image: olyavalchak/lab4:compose-mon
+    container_name: compose-mon
+    depends_on: 
+      - compose_app
+    networks:
+      - public
+
+networks:
+  public:
+    driver: bridge
